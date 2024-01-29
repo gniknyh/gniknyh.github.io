@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Multi-Scale Modeling and Rendering of Fibrous Materials"
+excerpt: "A rendering pipeline to render cloth with weave pattern<br/><img src='/images/thesis_overview.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+[Download](/files/DTU_Thesis_kengjian_202541.pdf)  
+
+[Link to school webpage](https://findit.dtu.dk/en/catalog/6407e04a766c7c3c96fe8658)  
+
+![Polyster cloth](/images/thesis_polyester.png)  
